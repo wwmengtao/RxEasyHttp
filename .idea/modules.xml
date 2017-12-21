@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RxEasyHttp.iml" filepath="$PROJECT_DIR$/RxEasyHttp.iml" />
+      <module fileurl="file://E:\Workspace\GitHubProjects_MT\RxEasyHttp\RxEasyHttp.iml" filepath="E:\Workspace\GitHubProjects_MT\RxEasyHttp\RxEasyHttp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Workspace\GitHubProjects_MT\RxEasyHttp\app\app.iml" filepath="E:\Workspace\GitHubProjects_MT\RxEasyHttp\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/rxeasyhttp/rxeasyhttp.iml" filepath="$PROJECT_DIR$/rxeasyhttp/rxeasyhttp.iml" />
+      <module fileurl="file://E:\Workspace\GitHubProjects_MT\RxEasyHttp\rxeasyhttp\rxeasyhttp.iml" filepath="E:\Workspace\GitHubProjects_MT\RxEasyHttp\rxeasyhttp\rxeasyhttp.iml" />
     </modules>
   </component>
 </project>
